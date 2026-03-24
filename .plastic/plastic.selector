@@ -1,0 +1,4 @@
+repository "vsnovel/vsnovel@6872764104512@cloud"
+  path "/"
+    br "/main"
+    co "/main"
